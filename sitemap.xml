@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://caregov.github.io/Office/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://caregov.github.io/Office/</loc><priority>1.0</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/marriage-docum.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/marriage-dnf.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/marriage-permit.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/marriage-documentation.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/mixed-marriage.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/marriage-abroad.html</loc><priority>0.8</priority></url>
-  <url><loc>https://caregov.github.io/Office/pages/marriage-permit.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/marriage-resident.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/marriage-born-ksa.html</loc><priority>0.8</priority></url>
   <url><loc>https://caregov.github.io/Office/pages/foreigners-marriage-contract.html</loc><priority>0.8</priority></url>
